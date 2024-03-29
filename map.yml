@@ -1,0 +1,4 @@
+map_name: Spoils_of_War
+games:
+- {game_name: Spoils of War, file_name: spoils_of_war.xml}
+version: 0
